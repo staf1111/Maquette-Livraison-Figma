@@ -3,8 +3,8 @@
 Conception de l'interface d'un service fictif de **livraison de galettes par drone**, réalisée dans le cadre d'un projet d'IHM au BUT Informatique (IUT de Laval).
 
 Le projet comprend deux interfaces :
-- 📱 une **application mobile** pour le client qui commande ;
-- 💻 un **intranet web** pour l'équipe qui gère la flotte de drones.
+-  une **application mobile** pour le client qui commande ;
+-  un **intranet web** pour l'équipe qui gère la flotte de drones.
 
  **[Voir le prototype interactif sur Figma](https://www.figma.com/proto/JZAk8TLJ4W7e6jbo6ra8nL?node-id=0-1)**
 

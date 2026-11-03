@@ -1,4 +1,4 @@
-# 🥞 Galette Hut – Maquettes Figma (IHM)
+# Galette Hut – Maquettes Figma (IHM)
 
 Conception de l'interface d'un service fictif de **livraison de galettes par drone**, réalisée dans le cadre d'un projet d'IHM au BUT Informatique (IUT de Laval).
 
@@ -6,13 +6,13 @@ Le projet comprend deux interfaces :
 - 📱 une **application mobile** pour le client qui commande ;
 - 💻 un **intranet web** pour l'équipe qui gère la flotte de drones.
 
-👉 **[Voir le prototype interactif sur Figma](https://www.figma.com/proto/JZAk8TLJ4W7e6jbo6ra8nL?node-id=0-1)**
+ **[Voir le prototype interactif sur Figma](https://www.figma.com/proto/JZAk8TLJ4W7e6jbo6ra8nL?node-id=0-1)**
 
 **Outil :** Figma (maquettes, composants avec variantes, prototype interactif)
 
 ---
 
-## 📱 Application mobile (client)
+##  Application mobile (client)
 
 > **J'ai conçu l'intégralité de l'application mobile** : parcours utilisateur, maquettes de tous les écrans, composants réutilisables et prototype interactif.
 
@@ -136,7 +136,7 @@ Le client suit la position du drone sur une carte. Le détail de la commande se 
 
 ---
 
-## 🧩 Composants réutilisables (Assets)
+##  Composants réutilisables (Assets)
 
 Les écrans sont construits à partir de **composants Figma avec variantes** (états normal, survol, clic, sélectionné), ce qui garantit la cohérence de toute l'application.
 
@@ -176,7 +176,7 @@ Carte de Laval avec la position de chaque drone, et deux listes : les drones **e
 
 ---
 
-## ✅ Principes d'ergonomie appliqués
+##  Principes d'ergonomie appliqués
 
 - **Guidage** : fil d'Ariane, titres explicites, boutons d'action bien identifiés.
 - **Charge de travail réduite** : une action principale par écran, informations regroupées en cartes.
@@ -188,4 +188,4 @@ Carte de Laval avec la position de chaque drone, et deux listes : les drones **e
 
 ---
 
-👤 **Mustafa Cafile** – Étudiant en BUT Informatique · [GitHub](https://github.com/staf1111)
+
